@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Marlon App</string>
+    <string name="nro1">1</string>
+    <string name="nro2">2</string>
+    <string name="nro3">3</string>
+    <string name="nro4">4</string>
+    <string name="nro5">5</string>
+    <string name="nro6">6</string>
+    <string name="nro7">7</string>
+    <string name="nro8">8</string>
+    <string name="nro9">9</string>
+    <string name="nro0">0</string>
+    <string name="soma">+</string>
+    <string name="subtracao">-</string>
+    <string name="multiplicacao">x</string>
+    <string name="divisao">/</string>
+    <string name="saudacao">Bem vindo ao Marlon App</string>
+    <string name="iniciar">Iniciar</string>
+
+    <string name="title_activity_calculadora">Calculadora</string>
+    <string name="dummy_button">OK</string>
+    <string name="dummy_content">Aplicaçao\nMarlon Prudente</string>
+</resources>
